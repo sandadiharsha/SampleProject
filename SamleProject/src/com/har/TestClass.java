@@ -10,5 +10,6 @@ package com.har;
 public class TestClass {
 	public static void main(String[] args) {
 		System.out.println("Sample file.");
+		System.out.println("Second statement.");
 	}
 }
