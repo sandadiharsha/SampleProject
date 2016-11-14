@@ -12,5 +12,6 @@ public class TestClass {
 		System.out.println("Sample file.");
 		System.out.println("Second statement.");
 		System.out.println("Thrird statement.");
+		System.out.println("Fourth statement.");
 	}
 }
