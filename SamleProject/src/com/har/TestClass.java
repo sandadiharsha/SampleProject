@@ -11,7 +11,7 @@ public class TestClass {
 	public static void main(String[] args) {
 		System.out.println("Sample file.");
 		System.out.println("Second statement.");
-		System.out.println("Thrird statement.");
+		System.out.println("Thrird statement .");
 		System.out.println("Fourth statement.");
 	}
 }
